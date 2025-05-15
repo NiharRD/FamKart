@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502764599473",
+    "project_id": "famkart-c7720",
+    "storage_bucket": "famkart-c7720.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502764599473:android:fd681d6c06eae272530a90",
+        "android_client_info": {
+          "package_name": "com.example.famkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjg_BNKVxyf7Tedn-0EtpeFku4urAt0XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
